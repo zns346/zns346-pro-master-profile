@@ -52,21 +52,33 @@
 
 ---
 
-## 🌟 Ranked Projects Showcase
+## 🌟 Top Projects (Live Stats & Animated Badges)
 <p align="center">
-  <!-- Example project cards using shields.io dynamic badges -->
-  <a href="https://github.com/zns346/ai-chatbot">
-    <img src="https://img.shields.io/badge/AI-Chatbot-00bfff?style=for-the-badge&logo=python&logoColor=white" />
-  </a>
-  <a href="https://github.com/zns346/fullstack-dashboard">
-    <img src="https://img.shields.io/badge/Fullstack-Dashboard-ff9900?style=for-the-badge&logo=react&logoColor=white" />
-  </a>
-  <a href="https://github.com/zns346/cloud-deployment">
-    <img src="https://img.shields.io/badge/Cloud-Deployment-00ffbf?style=for-the-badge&logo=aws&logoColor=white" />
-  </a>
-  <a href="https://github.com/zns346/data-analytics">
-    <img src="https://img.shields.io/badge/Data-Analytics-ff0055?style=for-the-badge&logo=postgresql&logoColor=white" />
-  </a>
+
+<a href="https://github.com/zns346/ai-chatbot">
+  <img src="https://img.shields.io/github/stars/zns346/ai-chatbot?style=for-the-badge&logo=github&color=00ffff&label=AI%20Chatbot&logoColor=white&animation=glow" />
+</a>
+<a href="https://github.com/zns346/fullstack-dashboard">
+  <img src="https://img.shields.io/github/stars/zns346/fullstack-dashboard?style=for-the-badge&logo=github&color=ff9900&label=Fullstack%20Dashboard&logoColor=white&animation=glow" />
+</a>
+<a href="https://github.com/zns346/cloud-deployment">
+  <img src="https://img.shields.io/github/stars/zns346/cloud-deployment?style=for-the-badge&logo=github&color=00ffbf&label=Cloud%20Deployment&logoColor=white&animation=glow" />
+</a>
+<a href="https://github.com/zns346/data-analytics">
+  <img src="https://img.shields.io/github/stars/zns346/data-analytics?style=for-the-badge&logo=github&color=ff0055&label=Data%20Analytics&logoColor=white&animation=glow" />
+</a>
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=zns346&theme=onestar&no-frame=false&margin-w=10&margin-h=10&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=zns346&theme=discord&no-frame=false&margin-w=10&margin-h=10&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=zns346&theme=radical&no-frame=false&margin-w=10&margin-h=10&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=zns346&theme=gruvbox&no-frame=false&margin-w=10&margin-h=10&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=zns346&theme=vue&no-frame=false&margin-w=10&margin-h=10&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=zns346&theme=merko&no-frame=false&margin-w=10&margin-h=10&column=6" />
 </p>
 
 ---
@@ -74,8 +86,6 @@
 ## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=zns346&theme=nightowl&bg_color=000000&color=00ffff&line=00bfff&point=0059ff&hide_border=true" width="95%" />
-  <br><br>
-  <img src="https://github-profile-trophy.vercel.app/?username=zns346&theme=discord&no-frame=true&margin-w=15&row=1" />
   <br><br>
   <img src="https://github-readme-stats.vercel.app/api?username=zns346&show_icons=true&theme=radical&hide_border=true&bg_color=000000&title_color=00ffff&icon_color=00bfff" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=zns346&theme=radical&hide_border=true&background=000000&stroke=00bfff&ring=00ffff&fire=00bfff&currStreakLabel=00bfff" width="48%" />
