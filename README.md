@@ -79,19 +79,10 @@
 
 ## 🏆 GitHub Trophies
 
-<div align="center" style="display:flex; flex-wrap:wrap; justify-content:center; gap:12px;">
-
-  <img src="https://github-profile-trophy.vercel.app/?username=zns346&theme=onestar&no-frame=true" />
-  <img src="https://github-profile-trophy.vercel.app/?username=zns346&theme=discord&no-frame=true" />
-  <img src="https://github-profile-trophy.vercel.app/?username=zns346&theme=radical&no-frame=true" />
-  <img src="https://github-profile-trophy.vercel.app/?username=zns346&theme=gruvbox&no-frame=true" />
-  <img src="https://github-profile-trophy.vercel.app/?username=zns346&theme=vue&no-frame=true" />
-  <img src="https://github-profile-trophy.vercel.app/?username=zns346&theme=merko&no-frame=true" />
-  <img src="https://github-profile-trophy.vercel.app/?username=zns346&theme=onestar&no-frame=true" />
-  <img src="https://github-profile-trophy.vercel.app/?username=zns346&theme=discord&no-frame=true" />
-
-</div>
-
+| ![onestar](https://github-profile-trophy.vercel.app/?username=zns346&theme=onestar&no-frame=true) | ![discord](https://github-profile-trophy.vercel.app/?username=zns346&theme=discord&no-frame=true) | ![radical](https://github-profile-trophy.vercel.app/?username=zns346&theme=radical&no-frame=true) |
+|---|---|---|
+| ![gruvbox](https://github-profile-trophy.vercel.app/?username=zns346&theme=gruvbox&no-frame=true) | ![vue](https://github-profile-trophy.vercel.app/?username=zns346&theme=vue&no-frame=true) | ![merko](https://github-profile-trophy.vercel.app/?username=zns346&theme=merko&no-frame=true) |
+| ![onestar2](https://github-profile-trophy.vercel.app/?username=zns346&theme=onestar&no-frame=true) | ![discord2](https://github-profile-trophy.vercel.app/?username=zns346&theme=discord&no-frame=true) | ![radical2](https://github-profile-trophy.vercel.app/?username=zns346&theme=radical&no-frame=true) |
 
 ---
 
