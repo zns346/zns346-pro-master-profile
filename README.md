@@ -9,7 +9,7 @@
 ## ⚡ Tech Arsenal
 
 <div align="center" style="backdrop-filter: blur(20px); background: rgba(0,0,0,0.25); border-radius:20px; padding:25px; box-shadow:0 0 40px rgba(0,102,255,0.3);">
-  
+
 ### Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7E017?style=for-the-badge&logo=javascript&logoColor=000)
@@ -78,7 +78,6 @@
 ---
 
 ## 🏆 GitHub Trophies
-## 🏆 GitHub Trophies
 
 | Trophy 1 | Trophy 2 | Trophy 3 |
 |---|---|---|
@@ -92,17 +91,15 @@
 |---|---|---|
 | ![onestar2](https://github-profile-trophy.vercel.app/?username=zns346&theme=onestar&no-frame=true&margin-w=5&margin-h=5) | ![discord2](https://github-profile-trophy.vercel.app/?username=zns346&theme=discord&no-frame=true&margin-w=5&margin-h=5) | ![radical2](https://github-profile-trophy.vercel.app/?username=zns346&theme=radical&no-frame=true&margin-w=5&margin-h=5) |
 
+---
 
 ## 📊 GitHub Stats
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=zns346&theme=nightowl&bg_color=000000&color=00ffff&line=00bfff&point=0059ff&hide_border=true" width="95%" />
 <br><br>
-<img src="https://github-profile-trophy.vercel.app/?username=zns346&theme=discord&no-frame=true&margin-w=15&row=1" />
-<br><br>
 <img src="https://github-readme-stats.vercel.app/api?username=zns346&show_icons=true&theme=radical&hide_border=true&bg_color=000000&title_color=00ffff&icon_color=00bfff" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=zns346&theme=radical&hide_border=true&background=000000&stroke=00bfff&ring=00ffff&fire=00bfff&currStreakLabel=00bfff" width="48%" />
-</p>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user
 
 ---
 
