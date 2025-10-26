@@ -78,7 +78,9 @@
 ---
 
 ## 🏆 GitHub Trophies
+
 <div align="center" style="display:flex; flex-wrap:wrap; justify-content:center; gap:12px;">
+
   <img src="https://github-profile-trophy.vercel.app/?username=zns346&theme=onestar&no-frame=true" />
   <img src="https://github-profile-trophy.vercel.app/?username=zns346&theme=discord&no-frame=true" />
   <img src="https://github-profile-trophy.vercel.app/?username=zns346&theme=radical&no-frame=true" />
@@ -87,7 +89,9 @@
   <img src="https://github-profile-trophy.vercel.app/?username=zns346&theme=merko&no-frame=true" />
   <img src="https://github-profile-trophy.vercel.app/?username=zns346&theme=onestar&no-frame=true" />
   <img src="https://github-profile-trophy.vercel.app/?username=zns346&theme=discord&no-frame=true" />
+
 </div>
+
 
 ---
 
