@@ -56,34 +56,42 @@
 ## 🌟 Top Projects Carousel
 <p align="center">
 <a href="https://github.com/zns346/ai-chatbot">
-  <img src="https://img.shields.io/github/stars/zns346/ai-chatbot?style=for-the-badge&logo=github&color=00ffff&label=AI%20Chatbot&logoColor=white&animation=glow" />
+  <img src="https://img.shields.io/github/stars/zns346/ai-chatbot?style=for-the-badge&logo=github&color=00ffff&label=AI%20Chatbot&logoColor=white" />
 </a>
 <a href="https://github.com/zns346/fullstack-dashboard">
-  <img src="https://img.shields.io/github/stars/zns346/fullstack-dashboard?style=for-the-badge&logo=github&color=ff9900&label=Fullstack%20Dashboard&logoColor=white&animation=glow" />
+  <img src="https://img.shields.io/github/stars/zns346/fullstack-dashboard?style=for-the-badge&logo=github&color=ff9900&label=Fullstack%20Dashboard&logoColor=white" />
 </a>
 <a href="https://github.com/zns346/cloud-deployment">
-  <img src="https://img.shields.io/github/stars/zns346/cloud-deployment?style=for-the-badge&logo=github&color=00ffbf&label=Cloud%20Deployment&logoColor=white&animation=glow" />
+  <img src="https://img.shields.io/github/stars/zns346/cloud-deployment?style=for-the-badge&logo=github&color=00ffbf&label=Cloud%20Deployment&logoColor=white" />
 </a>
 <a href="https://github.com/zns346/data-analytics">
-  <img src="https://img.shields.io/github/stars/zns346/data-analytics?style=for-the-badge&logo=github&color=ff0055&label=Data%20Analytics&logoColor=white&animation=glow" />
+  <img src="https://img.shields.io/github/stars/zns346/data-analytics?style=for-the-badge&logo=github&color=ff0055&label=Data%20Analytics&logoColor=white" />
 </a>
 <a href="https://github.com/zns346/iot-platform">
-  <img src="https://img.shields.io/github/stars/zns346/iot-platform?style=for-the-badge&logo=github&color=00ffff&label=IoT%20Platform&logoColor=white&animation=glow" />
+  <img src="https://img.shields.io/github/stars/zns346/iot-platform?style=for-the-badge&logo=github&color=00ffff&label=IoT%20Platform&logoColor=white" />
 </a>
 <a href="https://github.com/zns346/ai-vision">
-  <img src="https://img.shields.io/github/stars/zns346/ai-vision?style=for-the-badge&logo=github&color=ff00ff&label=AI%20Vision&logoColor=white&animation=glow" />
+  <img src="https://img.shields.io/github/stars/zns346/ai-vision?style=for-the-badge&logo=github&color=ff00ff&label=AI%20Vision&logoColor=white" />
 </a>
 </p>
 
 ---
-## 🏆 Achievements
 
-![Top Language](https://img.shields.io/github/languages/top/zns346?color=00ffff&label=Top%20Language)
-![Total Repos](https://img.shields.io/github/repos/zns346?color=00bfff&label=Public%20Repos)
-![Stars](https://img.shields.io/github/stars/zns346?color=ff00ff&label=Total%20Stars)
-![Forks](https://img.shields.io/github/forks/zns346?color=ff9900&label=Total%20Forks)
-![Commits](https://img.shields.io/github/commit-activity/y/zns346?color=00ffbf&label=Commits%20Last%20Year)
+## 🏆 Achievements / Pro Master Trophies
 
+| Achievement 1 | Achievement 2 | Achievement 3 |
+|---|---|---|
+| ![Top Language](https://img.shields.io/github/languages/top/zns346?color=00ffff&label=Top%20Language) | ![Total Repos](https://img.shields.io/github/repos/zns346?color=00bfff&label=Public%20Repos) | ![Stars](https://img.shields.io/github/stars/zns346?color=ff00ff&label=Total%20Stars) |
+
+| Achievement 4 | Achievement 5 | Achievement 6 |
+|---|---|---|
+| ![Forks](https://img.shields.io/github/forks/zns346?color=ff9900&label=Total%20Forks) | ![Commits](https://img.shields.io/github/commit-activity/y/zns346?color=00ffbf&label=Commits%20Last%20Year) | ![Issues](https://img.shields.io/github/issues/zns346?color=ff0055&label=Open%20Issues) |
+
+| Achievement 7 | Achievement 8 | Achievement 9 |
+|---|---|---|
+| ![Pull Requests](https://img.shields.io/github/issues-pr/zns346?color=00ffff&label=PRs) | ![Contributors](https://img.shields.io/github/contributors/zns346?color=00bfff&label=Contributors) | ![Watchers](https://img.shields.io/github/watchers/zns346?color=ff00ff&label=Watchers) |
+
+---
 
 ## 📊 GitHub Stats
 
@@ -91,10 +99,21 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=zns346&theme=nightowl&bg_color=000000&color=00ffff&line=00bfff&point=0059ff&hide_border=true" width="95%" />
 <br><br>
 <img src="https://github-readme-stats.vercel.app/api?username=zns346&show_icons=true&theme=radical&hide_border=true&bg_color=000000&title_color=00ffff&icon_color=00bfff" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=zns346&theme=radical&hide_border=true&background=000000&stroke=00bfff&ring=00bfff&fire=00bfff&currStreakLabel=00bfff" width="48%" />
+</p>
+
+---
+
+## 💬 Connect & Collaborate
+
+<p align="center">
+<a href="https://www.linkedin.com/in/zns346/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://twitter.com/zns346" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+<a href="mailto:zns346@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0011ff,100:0a0a0a&height=120&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0011ff,100:000000&height=100&section=footer" />
 </p>
