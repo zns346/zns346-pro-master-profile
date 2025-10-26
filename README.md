@@ -76,29 +76,13 @@
 </p>
 
 ---
+## 🏆 Achievements
 
-## 🏆 GitHub Trophies
-
-| Trophy 1 | Trophy 2 | Trophy 3 |
-|---|---|---|
-| ![onestar](https://github-profile-trophy.vercel.app/?username=zns346&theme=onestar&no-frame=true&margin-w=5&margin-h=5) | ![discord](https://github-profile-trophy.vercel.app/?username=zns346&theme=discord&no-frame=true&margin-w=5&margin-h=5) | ![radical](https://github-profile-trophy.vercel.app/?username=zns346&theme=radical&no-frame=true&margin-w=5&margin-h=5) |
-
-| Trophy 4 | Trophy 5 | Trophy 6 |
-|---|---|---|
-| ![gruvbox](https://github-profile-trophy.vercel.app/?username=zns346&theme=gruvbox&no-frame=true&margin-w=5&margin-h=5) | ![vue](https://github-profile-trophy.vercel.app/?username=zns346&theme=vue&no-frame=true&margin-w=5&margin-h=5) | ![merko](https://github-profile-trophy.vercel.app/?username=zns346&theme=merko&no-frame=true&margin-w=5&margin-h=5) |
-## 🏆 GitHub Trophies
-
-| Trophy 1 | Trophy 2 | Trophy 3 |
-|---|---|---|
-| ![onestar](https://github-profile-trophy.vercel.app/?username=zns346&theme=onestar&no-frame=true) | ![discord](https://github-profile-trophy.vercel.app/?username=zns346&theme=discord&no-frame=true) | ![radical](https://github-profile-trophy.vercel.app/?username=zns346&theme=radical&no-frame=true) |
-
-| Trophy 4 | Trophy 5 | Trophy 6 |
-|---|---|---|
-| ![gruvbox](https://github-profile-trophy.vercel.app/?username=zns346&theme=gruvbox&no-frame=true) | ![vue](https://github-profile-trophy.vercel.app/?username=zns346&theme=vue&no-frame=true) | ![merko](https://github-profile-trophy.vercel.app/?username=zns346&theme=merko&no-frame=true) |
-
-| Trophy 7 | Trophy 8 | Trophy 9 |
-|---|---|---|
-| ![onestar2](https://github-profile-trophy.vercel.app/?username=zns346&theme=onestar&no-frame=true) | ![discord2](https://github-profile-trophy.vercel.app/?username=zns346&theme=discord&no-frame=true) | ![radical2](https://github-profile-trophy.vercel.app/?username=zns346&theme=radical&no-frame=true) |
+![Top Language](https://img.shields.io/github/languages/top/zns346?color=00ffff&label=Top%20Language)
+![Total Repos](https://img.shields.io/github/repos/zns346?color=00bfff&label=Public%20Repos)
+![Stars](https://img.shields.io/github/stars/zns346?color=ff00ff&label=Total%20Stars)
+![Forks](https://img.shields.io/github/forks/zns346?color=ff9900&label=Total%20Forks)
+![Commits](https://img.shields.io/github/commit-activity/y/zns346?color=00ffbf&label=Commits%20Last%20Year)
 
 
 ## 📊 GitHub Stats
